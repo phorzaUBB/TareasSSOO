@@ -10,3 +10,6 @@ Para ejecutar nuestro programa se utiliza `./carrera` seguido de la distancia  d
 `./carrera 100 3`
 
 Donde **100** corresponde a la distancia de la carrera, y **3** corresponde al número de autos.
+
+### Instrucciones para eliminar el archivo ejecutable:
+Haciendo uso del comando `make clean` se elimina el archivo ejecutable **carrera** creado anteriormente.
